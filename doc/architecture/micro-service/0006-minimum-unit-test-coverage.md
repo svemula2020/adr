@@ -1,4 +1,4 @@
-# 6. minimum unit test coverage
+# 6. Minimum unit test coverage
 
 Date: 2018-04-03
 

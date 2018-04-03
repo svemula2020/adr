@@ -1,4 +1,4 @@
-# 7. minimum integration test cases
+# 7. Minimum integration test cases
 
 Date: 2018-04-03
 

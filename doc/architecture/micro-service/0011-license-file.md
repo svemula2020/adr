@@ -1,4 +1,4 @@
-# 11. license file
+# 11. License file
 
 Date: 2018-04-03
 

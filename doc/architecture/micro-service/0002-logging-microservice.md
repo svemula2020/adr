@@ -1,4 +1,4 @@
-# 2. logging microservice
+# 2. Logging microservice
 
 Date: 2018-04-03
 

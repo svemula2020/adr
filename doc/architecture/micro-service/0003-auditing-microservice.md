@@ -1,4 +1,4 @@
-# 3. auditing microservice
+# 3. Auditing microservice
 
 Date: 2018-04-03
 

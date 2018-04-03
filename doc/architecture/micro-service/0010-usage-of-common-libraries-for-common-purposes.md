@@ -1,4 +1,4 @@
-# 10. usage of common libraries for common purposes
+# 10. Usage of common libraries for common purposes
 
 Date: 2018-04-03
 

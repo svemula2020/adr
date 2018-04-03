@@ -1,4 +1,4 @@
-# 9. common ide setting file
+# 9. Common ide setting file
 
 Date: 2018-04-03
 
@@ -6,7 +6,7 @@ Date: 2018-04-03
 
 Accepted
 
-## Context
+## Contexts
 
 Context here...
 

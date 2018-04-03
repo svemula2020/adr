@@ -1,4 +1,4 @@
-# 4. exception handling microservice
+# 4. Exception handling microservice
 
 Date: 2018-04-03
 

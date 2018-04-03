@@ -1,4 +1,4 @@
-# 5. api resource endpoint pattern
+# 5. Api resource endpoint pattern
 
 Date: 2018-04-03
 
