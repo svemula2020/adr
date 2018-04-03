@@ -10,3 +10,4 @@
 * [8. readme-file](0008-readme-file.md)
 * [9. common ide setting file](0009-common-ide-setting-file.md)
 * [10. usage of common libraries for common purposes](0010-usage-of-common-libraries-for-common-purposes.md)
+* [11. license file](0011-license-file.md)
