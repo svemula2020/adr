@@ -11,3 +11,4 @@
 * [9. Common ide setting file](0009-common-ide-setting-file.md)
 * [10. Usage of common libraries for common purposes](0010-usage-of-common-libraries-for-common-purposes.md)
 * [11. License file](0011-license-file.md)
+* [12. microservices must use mock servers to run in isolation](0012-microservices-must-use-mock-servers-to-run-in-isolation.md)
