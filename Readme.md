@@ -1,6 +1,6 @@
 ## Install Adr Tools:
 
-https://github.com/npryce/adr-tools
+* https://github.com/npryce/adr-tools
 
 ## Links
 
