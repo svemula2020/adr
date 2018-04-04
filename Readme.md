@@ -7,5 +7,6 @@
 * https://github.com/npryce/adr-tools.
 * http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
 
-## Table of Contents:
+## Architecture Decision Records (or) Development Decision Records:
 * [1. Front End](./doc/architecture/front-end/toc.md)
+* [2. Micro Services](./doc/architecture/micro-service/toc.md)
